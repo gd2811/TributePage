@@ -18,7 +18,3 @@ Users can access the Tribute Page to learn about Mahatma Gandhi's life and legac
 - **HTML**: Markup language for structuring the web page content.
 - **CSS**: Stylesheet language for styling the elements and layout of the page.
 
-## Future Enhancements
-
-- **Interactive Elements**: Incorporate interactive features such as buttons or links to provide additional resources or further exploration of Gandhi's life and teachings.
-- **Responsive Design**: Optimize the page layout for various devices and screen sizes to ensure a consistent user experience across platforms.
